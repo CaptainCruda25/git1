@@ -14,6 +14,7 @@ box.addEventListener("click",function() {
     if(bg == "white"){
         word.style.background = "black";
         word.style.color = "white";
+        
     }
     else { 
         word.style.background = "white";
