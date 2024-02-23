@@ -18,6 +18,7 @@ box.addEventListener("click",function() {
     else { 
         word.style.background = "white";
         word.style.color = "black";
+        word.innerHTML = "Tada!"
     }
     
 });
