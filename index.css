@@ -9,12 +9,15 @@ header{
     left: 0;
     width: 100%;
     padding: 5px;
-    height: 14%;
+    height: 13%;
 }
-ul {
+nav {
     list-style: none;
     text-align: right;
     padding: 10px;
+}
+ul {
+    
 }
 ul li {
     height: 8em;
@@ -26,4 +29,9 @@ ul li a {
     text-decoration: none;
     font-size: 25px;
     
+}
+#color {
+    width:50%;
+    font-size: 100px;
+    background: white;
 }
